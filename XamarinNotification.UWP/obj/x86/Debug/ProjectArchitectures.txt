@@ -1,0 +1,2 @@
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification.UWP\XamarinNotification.UWP.csproj;x86
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\XamarinNotification.csproj;neutral

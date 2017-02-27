@@ -1,0 +1,16 @@
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\bin\Debug\XamarinNotification.dll
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\bin\Debug\XamarinNotification.pdb
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\obj\Debug\XamarinNotification.csprojResolveAssemblyReference.cache
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\obj\Debug\XamarinNotification.MainPage.xaml.g.cs
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\obj\Debug\XamarinNotification.dll
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\obj\Debug\XamarinNotification.pdb
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\obj\Debug\XamarinNotification.dll.mdb
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinNotification\XamarinNotification\bin\Debug\XamarinNotification.dll.mdb
